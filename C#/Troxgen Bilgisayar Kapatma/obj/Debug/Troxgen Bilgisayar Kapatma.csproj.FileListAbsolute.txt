@@ -1,0 +1,12 @@
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\bin\Debug\Troxgen Bilgisayar Kapatma.exe.config
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\bin\Debug\Troxgen Bilgisayar Kapatma.exe
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\bin\Debug\Troxgen Bilgisayar Kapatma.pdb
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen Bilgisayar Kapatma.csproj.AssemblyReference.cache
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen_Bilgisayar_Kapatma.Anasayfa.resources
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen_Bilgisayar_Kapatma.PcKapatma.resources
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen_Bilgisayar_Kapatma.Properties.Resources.resources
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen Bilgisayar Kapatma.csproj.GenerateResource.cache
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen Bilgisayar Kapatma.csproj.CoreCompileInputs.cache
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen Bilgisayar Kapatma.exe
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen Bilgisayar Kapatma.pdb
+C:\Users\troxg\source\repos\Troxgen Bilgisayar Kapatma\Troxgen Bilgisayar Kapatma\obj\Debug\Troxgen_Bilgisayar_Kapatma.PortSecmeEkrani.resources
